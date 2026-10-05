@@ -1,6 +1,6 @@
 [general]
 name=IPA - InSAR Product Analysis
-qgisMinimumVersion=3.0
+qgisMinimumVersion=3.4
 description=This plugin analyses InSAR products.
 version=0.1
 author=Fabio Piccolino
