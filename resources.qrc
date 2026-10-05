@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/IPA" >
+        <file>icon.png</file>
+	<file>images/sat.png</file>
+    </qresource>
+</RCC>
